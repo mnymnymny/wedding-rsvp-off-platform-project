@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-| Mu Nu Ya          | 3             |
+| Mu Nu Ya          | 4             |
